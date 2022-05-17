@@ -1,13 +1,3 @@
-# Your GitHub Learning Lab Repository for Introducing GitHub
+这是一个基于python的接口自动化测试项目，使用excel管理测试用例，客户端操作，使用过程中不需要关注代码。设计中主要遵循两点原则：简单易用、覆盖常用场景。 使用时注意配置文件的编码格式，建议使用UE编辑配置文件。
 
-Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through. See a word you don't understand? We've included an emoji 📖 next to some key terms. Click on it to see its definition.
-
-Oh! I haven't introduced myself...
-
-I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
-
-![issue tab](https://lab.github.com/public/images/issue_tab.png)
-
-I'll meet you over there, can't wait to get started!
-
-This course is using the :sparkles: open source project [reveal.js](https://github.com/hakimel/reveal.js/). In some cases we’ve made changes to the history so it would behave during class, so head to the original project repo to learn more about the cool people behind this project.
+图片显示不了，详细介绍请转至https://testerhome.com/topics/25078
